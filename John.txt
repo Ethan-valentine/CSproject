@@ -1,0 +1,10 @@
+PAYSLIP FOR 12 2020
+====================
+NameOfStaff: John
+HoursWorked: 145
+
+Basic Pay: $4,350.00
+
+====================
+Total Pay: $4,350.00
+====================

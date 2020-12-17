@@ -1,0 +1,10 @@
+PAYSLIP FOR 12 2020
+====================
+NameOfStaff: Carol
+HoursWorked: 165
+
+Basic Pay: $4,950.00
+
+====================
+Total Pay: $4,950.00
+====================
